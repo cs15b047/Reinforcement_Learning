@@ -1,0 +1,10 @@
+Q1:
+First argument is goal.
+But Goal has to be set manually in the FourRooms.py file self.goal variable.
+Second argument is algorithm : 1 --> SMDP  2--> Intra-option Q-Learning
+Also, code can be cutomized to use only primitive actions(scene=1), options(scene=2), or actions+options(scene=3)
+
+run "python test.py" to run code
+
+Q2:
+"python simple_dqn_cartpole_skeleton.py" to run

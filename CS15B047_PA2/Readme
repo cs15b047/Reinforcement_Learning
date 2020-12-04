@@ -1,0 +1,3 @@
+For q1, Q,Sarsa,Sarsa lambda:
+Give problem you want to solve as input,A or B or C
+For q2, give command line arg while running rollout.py as vishamC if you want envt to be vishamC.Default is chakra.
